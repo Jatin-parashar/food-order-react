@@ -1,0 +1,42 @@
+[
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "Jatin Parashar",
+      "email": "parashar18jatin@gmail.com",
+      "street": "143/18 Friends Colony",
+      "postal-code": "122001",
+      "city": "Gurgaon"
+    },
+    "id": "948.1464528185826"
+  },
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 5
+      }
+    ],
+    "customer": {
+      "name": "Jatin Parashar",
+      "email": "parashar18jatin@gmail.com",
+      "street": "143/18 Friends Colony",
+      "postal-code": "122001",
+      "city": "Gurgaon"
+    },
+    "id": "37.732749350636084"
+  }
+]
